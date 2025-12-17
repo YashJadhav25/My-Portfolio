@@ -6,3 +6,12 @@
 body{
     background-color: aqua;
 }
+
+.btn{
+    background-color: antiquewhite;
+    color: black;
+    width: 100px;
+    height: 20px;
+    border-radius: 10px;
+    border-color: black;
+}
